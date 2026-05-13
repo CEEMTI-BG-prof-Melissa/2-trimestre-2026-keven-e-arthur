@@ -4,8 +4,9 @@
     <title> Formulario HTML</title>
     <meta charset="UTF-8">
 </head>
+
 <body>
-    <h1>Cadastro de usuário</h1>
+    <h1>Cadastro de usuário</h1> <--CERTO-->
     <form action="cadastro.php" method="enviar">
         <label for="nome">Nome:</label>
         <input type="text" id="nome">
