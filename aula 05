@@ -1,0 +1,14 @@
+<DOCTYPE HTML>
+    <html lang "pt-br">
+        <head>
+            <meta charset "UTF-8">
+            <Title> Aula 01 html </title>
+</head>
+</body>
+     <?php
+        echo "Ola,Mundo!";
+     ?>
+
+    </body>
+</html>
+ 
